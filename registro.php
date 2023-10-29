@@ -13,7 +13,7 @@
         <label for="email">Email:</label>
         <input type="email" id="email" name="email"><br>
 
-        <label for="edad">Email:</label>
+        <label for="edad">Edad:</label>
         <input type="text" id="edad" name="edad"><br>
         
         <input type="submit" value="Registrar">
